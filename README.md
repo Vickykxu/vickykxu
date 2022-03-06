@@ -9,7 +9,7 @@ My name is Vicky and I am a second-year student at Simon Fraser University's Bee
 > - HTML and CSS
 
 🌱 I’m currently working on ...
-> - Becoming the best version of myself :) 
+> - Self development :) 
 
 📫 Let's connect! [Vickykxu](https://www.linkedin.com/in/vicky-x-28879b176/)
 
