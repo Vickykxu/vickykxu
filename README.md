@@ -1,12 +1,9 @@
 ## Hi there 👋
 
 
-My name is Vicky and I am a second-year student at Simon Fraser University's Beedie School of Business. 
+My name is Vicky and I am a third-year student at Simon Fraser University's Beedie School of Business. 
 
 🤔 I guess I code sometimes too
-
-🌱 I’m currently learning ...
-> - HTML and CSS
 
 📫 Let's connect! [Vickykxu](https://www.linkedin.com/in/vicky-x-28879b176/)
 
