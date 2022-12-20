@@ -4,6 +4,7 @@
 My name is Vicky and I am a third-year student at Simon Fraser University's Beedie School of Business.
 
 🤔 I guess I code sometimes too
+
 🌱 Learning for fun
 
 📫 Let's connect! [Vickykxu](https://www.linkedin.com/in/vicky-x-28879b176/)
