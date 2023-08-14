@@ -8,11 +8,6 @@ My name is Vicky and I am a third-year student at Simon Fraser University's Beed
 🌱 Learning for fun
 
 📫 Let's connect! [Vickykxu](https://www.linkedin.com/in/vicky-x-28879b176/)
-
-### Stats 📈
-<div style = "float: left" >
-<img width = "360px" padding = "10px" src="https://github-readme-stats.vercel.app/api/?username=Vickykxu&theme=nightowl" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickykxu&theme=nightowl&layout=compact" />
   
 <!--
 **Vickykxu/vickykxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
